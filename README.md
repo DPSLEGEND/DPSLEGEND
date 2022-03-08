@@ -1,9 +1,8 @@
-## **Hi 👋 I'm [Daman]
+## Hi 👋 I'm [Daman]
 
 A **Student** from India with a passion in **computers**.
 
-[![Daman's GitHub stats](https://github-readme-stats.vercel.app/apiDaman=DPSLEGEND&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DPSLEGEND&show_icons=true&theme=radical)
 ## Connect with me
 
 <div align="center" class="first">
